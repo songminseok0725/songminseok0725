@@ -7,7 +7,7 @@ republic of korea
 # 생년월일
 1997.07.25
 # 좌우명
-새옹지마, 우공이산
+새옹지마
 
 # 사진
 ![나의 사진](https://mblogthumb-phinf.pstatic.net/20160526_47/fullstory_1464253017172NMRne_JPEG/%B3%AA%B7%E7%C5%E4_%C0%B0%B5%B5%BC%B1%C0%CE%B8%F0%B5%E52.jpg?type=w800)
