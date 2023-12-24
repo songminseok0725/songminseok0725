@@ -1,6 +1,7 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&Align=50&descSize=15&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Your%20Name&fontSize=60&desc=Your%20Description&descSize=15&fontAlign=50)
+
 
 
 ## introduce
