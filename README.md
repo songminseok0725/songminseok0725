@@ -1,6 +1,6 @@
 <div align=center>
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
+![Custom Header](https://example.com/path/to/your/image.jpg)
 
 
 
