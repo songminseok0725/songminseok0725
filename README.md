@@ -6,7 +6,11 @@
 
 
 ## introduce
-어서오세용.
+NAME : MIN-SEOK . SONG
+BIRTH : 1997-07-25
+
+ROLE MODEL :  Koo.Ja-cheol, Cha.Du-ri, Itachi Uchiha, Jiraiya
+
 
 ## skills
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
