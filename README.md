@@ -10,7 +10,6 @@ NAME : SONG. MIN-SEOK
 <br>
 BIRTH : 1997-07-25
 
-ROLE MODEL :  Koo.Ja-cheol, Cha.Du-ri, Itachi Uchiha, Jiraiya
 
 
 ## skills
