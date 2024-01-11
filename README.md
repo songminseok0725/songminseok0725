@@ -6,7 +6,7 @@
 
 
 ## introduce
-NAME : MIN-SEOK . SONG
+NAME : SONG. MIN-SEOK
 <br>
 BIRTH : 1997-07-25
 
